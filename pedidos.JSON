@@ -1,0 +1,65 @@
+/* 1 */
+{
+    "_id" : ObjectId("61807f5535757df1cf4689ba"),
+    "cliente" : {
+        "nome" : "Jonas William",
+        "endereco" : "rua dos bobos",
+        "numeroCasa" : "333",
+        "Complemento" : "ao lado do mercadinho 123"
+    },
+    "pedido" : {
+        "item1" : "x-tudo",
+        "item2" : "coca cola lata"
+    }
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("61807fe135757df1cf4689d3"),
+    "cliente" : {
+        "nome" : "Fernanda",
+        "endereco" : "rua das bobas",
+        "numeroCasa" : "123",
+        "Complemento" : "ao lado do mercadinho 321"
+    },
+    "pedido" : {
+        "item1" : "x-salada",
+        "qtdItem1" : 5,
+        "item2" : "coca cola lata"
+    }
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("618080c235757df1cf4689f3"),
+    "cliente" : {
+        "nome" : "Seu Jorge",
+        "endereco" : "rua das burguesinhas",
+        "numeroCasa" : "132",
+        "Complemento" : "ao lado do bar do Zeca pagodinho"
+    },
+    "pedido" : {
+        "item1" : "Litrão Skol",
+        "qtdItem1" : 24
+    }
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("618081cb35757df1cf468a11"),
+    "cliente" : {
+        "nome" : "James Bond",
+        "endereco" : "rua Cassino Royale",
+        "numeroCasa" : "007",
+        "Complemento" : "sem complemento"
+    },
+    "pedido" : {
+        "item1" : "Redbull Lata",
+        "qtdItem1" : 7,
+        "item2" : "Danone 1L",
+        "qtdItem2" : 2,
+        "item3" : "Pizza congelada, sabor: 4 queijos",
+        "qtdItem3" : 1
+    },
+    "qtdItem1" : 10.0
+}
